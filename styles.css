@@ -1,0 +1,70 @@
+/*************************tag selectors*******************************/   
+body{
+    background-color:#ffa372;
+    background-image: url("https://images.pexels.com/photos/1004014/pexels-photo-1004014.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: scroll;
+    margin: 0;
+    text-align: center;
+ 
+ 
+   }
+ h1{
+   font-family: sans-serif;
+   padding-top: 200px;
+   font-family: 'Sacramento', cursive;
+   font-size: 70px;
+ }
+ 
+ h3{
+ 
+   font-family: 'Lobster', cursive;
+ }
+ 
+ table.center {
+   margin-left:auto; 
+   margin-right:auto;
+   color:"white"
+ }
+ 
+ .white{
+ 
+   color:white;
+ }
+ 
+ 
+   hr{
+ 
+   border-color:grey;
+   border-style:None;
+   border-top-style:dotted;
+   border-Width :5px;
+   width:10%;
+ 
+ 
+    }
+   h1{
+        
+   color:#66bfbf;
+ 
+   }
+   h3{
+ 
+     color:#66bfbf;
+ 
+   }
+   img:hover {
+ 
+    background-color:#74992e;
+ 
+   }  
+ /******************************************class selectors*************************************************/
+ 
+   
+   .circular{
+     border-radius: 100%;
+   }
+ 
